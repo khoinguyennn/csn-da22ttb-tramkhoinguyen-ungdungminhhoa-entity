@@ -1,0 +1,78 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="QL_KhachSanModel" Alias="Self" annotation:UseStrongSpatialTypes="false" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm">
+  <EntityType Name="Phong">
+    <Key>
+      <PropertyRef Name="idphong" />
+    </Key>
+    <Property Name="idphong" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="sophong" Type="String" MaxLength="250" FixedLength="false" Unicode="false" Nullable="false" />
+    <Property Name="loaiphong" Type="String" MaxLength="250" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="loaigiuong" Type="String" MaxLength="250" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="gia" Type="Int64" Nullable="false" />
+    <Property Name="dat" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+    <NavigationProperty Name="KhachHangs" Relationship="QL_KhachSanModel.FK__KhachHang__idpho__07020F21" FromRole="Phong" ToRole="KhachHang" />
+  </EntityType>
+  <EntityContainer Name="QL_KhachSanEntities" annotation:LazyLoadingEnabled="true">
+    <EntitySet Name="Phongs" EntityType="Self.Phong" />
+    <EntitySet Name="sysdiagrams" EntityType="QL_KhachSanModel.sysdiagram" />
+    <EntitySet Name="NhanViens" EntityType="QL_KhachSanModel.NhanVien" />
+    <EntitySet Name="KhachHangs" EntityType="QL_KhachSanModel.KhachHang" />
+    <AssociationSet Name="FK__KhachHang__idpho__07020F21" Association="QL_KhachSanModel.FK__KhachHang__idpho__07020F21">
+      <End Role="Phong" EntitySet="Phongs" />
+      <End Role="KhachHang" EntitySet="KhachHangs" />
+    </AssociationSet>
+  </EntityContainer>
+  <EntityType Name="sysdiagram">
+    <Key>
+      <PropertyRef Name="diagram_id" />
+    </Key>
+    <Property Name="name" Type="String" Nullable="false" MaxLength="128" FixedLength="false" Unicode="true" />
+    <Property Name="principal_id" Type="Int32" Nullable="false" />
+    <Property Name="diagram_id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="version" Type="Int32" />
+    <Property Name="definition" Type="Binary" MaxLength="Max" FixedLength="false" />
+  </EntityType>
+  <EntityType Name="NhanVien">
+    <Key>
+      <PropertyRef Name="idnv" />
+    </Key>
+    <Property Name="idnv" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="tennv" Type="String" Nullable="false" MaxLength="250" FixedLength="false" Unicode="true" />
+    <Property Name="sodienthoainv" Type="String" MaxLength="20" FixedLength="false" Unicode="false" />
+    <Property Name="gioitinhnv" Type="String" Nullable="false" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Name="email" Type="String" Nullable="false" MaxLength="120" FixedLength="false" Unicode="false" />
+    <Property Name="username" Type="String" Nullable="false" MaxLength="150" FixedLength="false" Unicode="false" />
+    <Property Name="pass" Type="String" Nullable="false" MaxLength="150" FixedLength="false" Unicode="false" />
+    <Property Name="loainguoidung" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+  </EntityType>
+  <EntityType Name="KhachHang">
+    <Key>
+      <PropertyRef Name="idkhach" />
+    </Key>
+    <Property Name="idkhach" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="tenkhach" Type="String" Nullable="false" MaxLength="250" FixedLength="false" Unicode="true" />
+    <Property Name="sodienthoai" Type="String" MaxLength="20" FixedLength="false" Unicode="false" />
+    <Property Name="quoctich" Type="String" Nullable="false" MaxLength="250" FixedLength="false" Unicode="true" />
+    <Property Name="gioitinh" Type="String" Nullable="false" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Name="ngaysinh" Type="String" Nullable="false" MaxLength="50" FixedLength="false" Unicode="false" />
+    <Property Name="cccd" Type="String" Nullable="false" MaxLength="250" FixedLength="false" Unicode="false" />
+    <Property Name="diachi" Type="String" Nullable="false" MaxLength="350" FixedLength="false" Unicode="true" />
+    <Property Name="checkin" Type="String" Nullable="false" MaxLength="250" FixedLength="false" Unicode="false" />
+    <Property Name="checkout" Type="String" MaxLength="250" FixedLength="false" Unicode="false" />
+    <Property Name="thanhtoan" Type="String" MaxLength="250" FixedLength="false" Unicode="false" />
+    <Property Name="idphong" Type="Int32" Nullable="false" />
+    <NavigationProperty Name="Phong" Relationship="QL_KhachSanModel.FK__KhachHang__idpho__07020F21" FromRole="KhachHang" ToRole="Phong" />
+  </EntityType>
+  <Association Name="FK__KhachHang__idpho__07020F21">
+    <End Type="QL_KhachSanModel.Phong" Role="Phong" Multiplicity="1" />
+    <End Type="QL_KhachSanModel.KhachHang" Role="KhachHang" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Phong">
+        <PropertyRef Name="idphong" />
+      </Principal>
+      <Dependent Role="KhachHang">
+        <PropertyRef Name="idphong" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+</Schema>

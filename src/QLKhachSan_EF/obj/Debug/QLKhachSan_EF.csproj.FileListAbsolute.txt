@@ -1,0 +1,80 @@
+D:\Lap trinh ung dung Window\QLKhachSan_EF\bin\Debug\QLKhachSan_EF.exe.config
+D:\Lap trinh ung dung Window\QLKhachSan_EF\bin\Debug\QLKhachSan_EF.exe
+D:\Lap trinh ung dung Window\QLKhachSan_EF\bin\Debug\QLKhachSan_EF.pdb
+D:\Lap trinh ung dung Window\QLKhachSan_EF\obj\Debug\QLKhachSan_EF.csproj.AssemblyReference.cache
+D:\Lap trinh ung dung Window\QLKhachSan_EF\obj\Debug\QLKhachSan_EF.frmDangNhap.resources
+D:\Lap trinh ung dung Window\QLKhachSan_EF\obj\Debug\QLKhachSan_EF.Properties.Resources.resources
+D:\Lap trinh ung dung Window\QLKhachSan_EF\obj\Debug\QLKhachSan_EF.csproj.GenerateResource.cache
+D:\Lap trinh ung dung Window\QLKhachSan_EF\obj\Debug\QLKhachSan_EF.csproj.CoreCompileInputs.cache
+D:\Lap trinh ung dung Window\QLKhachSan_EF\obj\Debug\QLKhachSan_EF.exe
+D:\Lap trinh ung dung Window\QLKhachSan_EF\obj\Debug\QLKhachSan_EF.pdb
+D:\Lap trinh ung dung Window\QLKhachSan_EF\obj\Debug\QLKhachSan_EF.frmTrangChinh.resources
+D:\Lap trinh ung dung Window\QLKhachSan_EF\bin\Debug\EntityFramework.dll
+D:\Lap trinh ung dung Window\QLKhachSan_EF\bin\Debug\EntityFramework.SqlServer.dll
+D:\Lap trinh ung dung Window\QLKhachSan_EF\bin\Debug\EntityFramework.xml
+D:\Lap trinh ung dung Window\QLKhachSan_EF\bin\Debug\EntityFramework.SqlServer.xml
+D:\Lap trinh ung dung Window\QLKhachSan_EF\obj\Debug\QLKhachS.90EE215D.Up2Date
+D:\Lap trinh ung dung Window\QLKhachSan_EF\obj\Debug\QLKhachSan_EF.frmThemPhong.resources
+D:\Lap trinh ung dung Window\QLKhachSan_EF\obj\Debug\QLKhachSan_EF.frmDangKyKhach.resources
+D:\Lap trinh ung dung Window\QLKhachSan_EF\obj\Debug\QLKhachSan_EF.frmThanhToan.resources
+D:\Lap trinh ung dung Window\QLKhachSan_EF\obj\Debug\QLKhachSan_EF.frmThongTinKhach.resources
+D:\Lap trinh ung dung Window\QLKhachSan_EF\obj\Debug\QLKhachSan_EF.frmThongKe.resources
+D:\Lap trinh ung dung Window\QLKhachSan_EF\obj\Debug\QLKhachSan_EF.frmNhanVien.resources
+D:\Lap trinh ung dung Window\QLKhachSan_EF\bin\Debug\EPPlus.dll
+D:\Lap trinh ung dung Window\QLKhachSan_EF\bin\Debug\EPPlus.Interfaces.dll
+D:\Lap trinh ung dung Window\QLKhachSan_EF\bin\Debug\EPPlus.System.Drawing.dll
+D:\Lap trinh ung dung Window\QLKhachSan_EF\bin\Debug\Microsoft.IO.RecyclableMemoryStream.dll
+D:\Lap trinh ung dung Window\QLKhachSan_EF\bin\Debug\System.Buffers.dll
+D:\Lap trinh ung dung Window\QLKhachSan_EF\bin\Debug\System.ComponentModel.Annotations.dll
+D:\Lap trinh ung dung Window\QLKhachSan_EF\bin\Debug\System.Drawing.Common.dll
+D:\Lap trinh ung dung Window\QLKhachSan_EF\bin\Debug\System.Memory.dll
+D:\Lap trinh ung dung Window\QLKhachSan_EF\bin\Debug\System.Numerics.Vectors.dll
+D:\Lap trinh ung dung Window\QLKhachSan_EF\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\Lap trinh ung dung Window\QLKhachSan_EF\bin\Debug\EPPlus.xml
+D:\Lap trinh ung dung Window\QLKhachSan_EF\bin\Debug\Microsoft.IO.RecyclableMemoryStream.xml
+D:\Lap trinh ung dung Window\QLKhachSan_EF\bin\Debug\System.Buffers.xml
+D:\Lap trinh ung dung Window\QLKhachSan_EF\bin\Debug\System.Drawing.Common.pdb
+D:\Lap trinh ung dung Window\QLKhachSan_EF\bin\Debug\System.Drawing.Common.xml
+D:\Lap trinh ung dung Window\QLKhachSan_EF\bin\Debug\System.Memory.xml
+D:\Lap trinh ung dung Window\QLKhachSan_EF\bin\Debug\System.Numerics.Vectors.xml
+D:\Lap trinh ung dung Window\QLKhachSan_EF\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\DACSN 2024\github\src\QLKhachSan_EF\bin\Debug\QLKhachSan_EF.exe.config
+D:\DACSN 2024\github\src\QLKhachSan_EF\bin\Debug\QLKhachSan_EF.exe
+D:\DACSN 2024\github\src\QLKhachSan_EF\bin\Debug\QLKhachSan_EF.pdb
+D:\DACSN 2024\github\src\QLKhachSan_EF\bin\Debug\EntityFramework.dll
+D:\DACSN 2024\github\src\QLKhachSan_EF\bin\Debug\EntityFramework.SqlServer.dll
+D:\DACSN 2024\github\src\QLKhachSan_EF\bin\Debug\EPPlus.dll
+D:\DACSN 2024\github\src\QLKhachSan_EF\bin\Debug\EPPlus.Interfaces.dll
+D:\DACSN 2024\github\src\QLKhachSan_EF\bin\Debug\EPPlus.System.Drawing.dll
+D:\DACSN 2024\github\src\QLKhachSan_EF\bin\Debug\Microsoft.IO.RecyclableMemoryStream.dll
+D:\DACSN 2024\github\src\QLKhachSan_EF\bin\Debug\System.Buffers.dll
+D:\DACSN 2024\github\src\QLKhachSan_EF\bin\Debug\System.ComponentModel.Annotations.dll
+D:\DACSN 2024\github\src\QLKhachSan_EF\bin\Debug\System.Drawing.Common.dll
+D:\DACSN 2024\github\src\QLKhachSan_EF\bin\Debug\System.Memory.dll
+D:\DACSN 2024\github\src\QLKhachSan_EF\bin\Debug\System.Numerics.Vectors.dll
+D:\DACSN 2024\github\src\QLKhachSan_EF\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\DACSN 2024\github\src\QLKhachSan_EF\bin\Debug\EntityFramework.xml
+D:\DACSN 2024\github\src\QLKhachSan_EF\bin\Debug\EntityFramework.SqlServer.xml
+D:\DACSN 2024\github\src\QLKhachSan_EF\bin\Debug\EPPlus.xml
+D:\DACSN 2024\github\src\QLKhachSan_EF\bin\Debug\Microsoft.IO.RecyclableMemoryStream.xml
+D:\DACSN 2024\github\src\QLKhachSan_EF\bin\Debug\System.Buffers.xml
+D:\DACSN 2024\github\src\QLKhachSan_EF\bin\Debug\System.Drawing.Common.pdb
+D:\DACSN 2024\github\src\QLKhachSan_EF\bin\Debug\System.Drawing.Common.xml
+D:\DACSN 2024\github\src\QLKhachSan_EF\bin\Debug\System.Memory.xml
+D:\DACSN 2024\github\src\QLKhachSan_EF\bin\Debug\System.Numerics.Vectors.xml
+D:\DACSN 2024\github\src\QLKhachSan_EF\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\DACSN 2024\github\src\QLKhachSan_EF\obj\Debug\QLKhachSan_EF.csproj.AssemblyReference.cache
+D:\DACSN 2024\github\src\QLKhachSan_EF\obj\Debug\QLKhachSan_EF.frmDangKyKhach.resources
+D:\DACSN 2024\github\src\QLKhachSan_EF\obj\Debug\QLKhachSan_EF.frmDangNhap.resources
+D:\DACSN 2024\github\src\QLKhachSan_EF\obj\Debug\QLKhachSan_EF.frmNhanVien.resources
+D:\DACSN 2024\github\src\QLKhachSan_EF\obj\Debug\QLKhachSan_EF.frmThanhToan.resources
+D:\DACSN 2024\github\src\QLKhachSan_EF\obj\Debug\QLKhachSan_EF.frmThemPhong.resources
+D:\DACSN 2024\github\src\QLKhachSan_EF\obj\Debug\QLKhachSan_EF.frmThongKe.resources
+D:\DACSN 2024\github\src\QLKhachSan_EF\obj\Debug\QLKhachSan_EF.frmThongTinKhach.resources
+D:\DACSN 2024\github\src\QLKhachSan_EF\obj\Debug\QLKhachSan_EF.frmTrangChinh.resources
+D:\DACSN 2024\github\src\QLKhachSan_EF\obj\Debug\QLKhachSan_EF.Properties.Resources.resources
+D:\DACSN 2024\github\src\QLKhachSan_EF\obj\Debug\QLKhachSan_EF.csproj.GenerateResource.cache
+D:\DACSN 2024\github\src\QLKhachSan_EF\obj\Debug\QLKhachSan_EF.csproj.CoreCompileInputs.cache
+D:\DACSN 2024\github\src\QLKhachSan_EF\obj\Debug\QLKhachS.90EE215D.Up2Date
+D:\DACSN 2024\github\src\QLKhachSan_EF\obj\Debug\QLKhachSan_EF.exe
+D:\DACSN 2024\github\src\QLKhachSan_EF\obj\Debug\QLKhachSan_EF.pdb

@@ -1,0 +1,76 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="QL_KhachSanModel.Store" Provider="System.Data.SqlClient" ProviderManifestToken="2008" Alias="Self" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm/ssdl">
+  <EntityType Name="KhachHang">
+    <Key>
+      <PropertyRef Name="idkhach" />
+    </Key>
+    <Property Name="idkhach" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="tenkhach" Type="nvarchar" MaxLength="250" Nullable="false" />
+    <Property Name="sodienthoai" Type="varchar" MaxLength="20" />
+    <Property Name="quoctich" Type="nvarchar" MaxLength="250" Nullable="false" />
+    <Property Name="gioitinh" Type="nvarchar" MaxLength="50" Nullable="false" />
+    <Property Name="ngaysinh" Type="varchar" MaxLength="50" Nullable="false" />
+    <Property Name="cccd" Type="varchar" MaxLength="250" Nullable="false" />
+    <Property Name="diachi" Type="nvarchar" MaxLength="350" Nullable="false" />
+    <Property Name="checkin" Type="varchar" MaxLength="250" Nullable="false" />
+    <Property Name="checkout" Type="varchar" MaxLength="250" />
+    <Property Name="thanhtoan" Type="varchar" MaxLength="250" />
+    <Property Name="idphong" Type="int" Nullable="false" />
+  </EntityType>
+  <EntityType Name="NhanVien">
+    <Key>
+      <PropertyRef Name="idnv" />
+    </Key>
+    <Property Name="idnv" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="tennv" Type="nvarchar" MaxLength="250" Nullable="false" />
+    <Property Name="sodienthoainv" Type="varchar" MaxLength="20" />
+    <Property Name="gioitinhnv" Type="nvarchar" MaxLength="50" Nullable="false" />
+    <Property Name="email" Type="varchar" MaxLength="120" Nullable="false" />
+    <Property Name="username" Type="varchar" MaxLength="150" Nullable="false" />
+    <Property Name="pass" Type="varchar" MaxLength="150" Nullable="false" />
+    <Property Name="loainguoidung" Type="nvarchar" MaxLength="50" />
+  </EntityType>
+  <EntityType Name="Phong">
+    <Key>
+      <PropertyRef Name="idphong" />
+    </Key>
+    <Property Name="idphong" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="sophong" Type="varchar" MaxLength="250" Nullable="false" />
+    <Property Name="loaiphong" Type="nvarchar" MaxLength="250" Nullable="false" />
+    <Property Name="loaigiuong" Type="nvarchar" MaxLength="250" Nullable="false" />
+    <Property Name="gia" Type="bigint" Nullable="false" />
+    <Property Name="dat" Type="varchar" MaxLength="50" />
+  </EntityType>
+  <EntityType Name="sysdiagrams">
+    <Key>
+      <PropertyRef Name="diagram_id" />
+    </Key>
+    <Property Name="name" Type="nvarchar" MaxLength="128" Nullable="false" />
+    <Property Name="principal_id" Type="int" Nullable="false" />
+    <Property Name="diagram_id" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="version" Type="int" />
+    <Property Name="definition" Type="varbinary(max)" />
+  </EntityType>
+  <Association Name="FK__KhachHang__idpho__07020F21">
+    <End Role="Phong" Type="Self.Phong" Multiplicity="1" />
+    <End Role="KhachHang" Type="Self.KhachHang" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Phong">
+        <PropertyRef Name="idphong" />
+      </Principal>
+      <Dependent Role="KhachHang">
+        <PropertyRef Name="idphong" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <EntityContainer Name="QL_KhachSanModelStoreContainer">
+    <EntitySet Name="KhachHang" EntityType="Self.KhachHang" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="NhanVien" EntityType="Self.NhanVien" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="Phong" EntityType="Self.Phong" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="sysdiagrams" EntityType="Self.sysdiagrams" Schema="dbo" store:Type="Tables" />
+    <AssociationSet Name="FK__KhachHang__idpho__07020F21" Association="Self.FK__KhachHang__idpho__07020F21">
+      <End Role="Phong" EntitySet="Phong" />
+      <End Role="KhachHang" EntitySet="KhachHang" />
+    </AssociationSet>
+  </EntityContainer>
+</Schema>
