@@ -3,11 +3,47 @@
   "WorkspaceRootPath": "D:\\DACSN 2024\\github\\src\\QLKhachSan_EF\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{387A094B-AD86-4BCF-9E11-DC2653F205FB}|QLKhachSan_EF.csproj|D:\\DACSN 2024\\github\\src\\QLKhachSan_EF\\frmthemphong.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{387A094B-AD86-4BCF-9E11-DC2653F205FB}|QLKhachSan_EF.csproj|solutionrelative:frmthemphong.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{387A094B-AD86-4BCF-9E11-DC2653F205FB}|QLKhachSan_EF.csproj|D:\\DACSN 2024\\github\\src\\QLKhachSan_EF\\frmthemphong.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{387A094B-AD86-4BCF-9E11-DC2653F205FB}|QLKhachSan_EF.csproj|solutionrelative:frmthemphong.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{387A094B-AD86-4BCF-9E11-DC2653F205FB}|QLKhachSan_EF.csproj|D:\\DACSN 2024\\github\\src\\QLKhachSan_EF\\frmnhanvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{387A094B-AD86-4BCF-9E11-DC2653F205FB}|QLKhachSan_EF.csproj|solutionrelative:frmnhanvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{387A094B-AD86-4BCF-9E11-DC2653F205FB}|QLKhachSan_EF.csproj|D:\\DACSN 2024\\github\\src\\QLKhachSan_EF\\frmnhanvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{387A094B-AD86-4BCF-9E11-DC2653F205FB}|QLKhachSan_EF.csproj|solutionrelative:frmnhanvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{387A094B-AD86-4BCF-9E11-DC2653F205FB}|QLKhachSan_EF.csproj|d:\\dacsn 2024\\github\\src\\qlkhachsan_ef\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{387A094B-AD86-4BCF-9E11-DC2653F205FB}|QLKhachSan_EF.csproj|solutionrelative:app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{387A094B-AD86-4BCF-9E11-DC2653F205FB}|QLKhachSan_EF.csproj|D:\\DACSN 2024\\github\\src\\QLKhachSan_EF\\frmdangkykhach.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{387A094B-AD86-4BCF-9E11-DC2653F205FB}|QLKhachSan_EF.csproj|solutionrelative:frmdangkykhach.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{387A094B-AD86-4BCF-9E11-DC2653F205FB}|QLKhachSan_EF.csproj|d:\\dacsn 2024\\github\\src\\qlkhachsan_ef\\frmtrangchinh.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{387A094B-AD86-4BCF-9E11-DC2653F205FB}|QLKhachSan_EF.csproj|solutionrelative:frmtrangchinh.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{387A094B-AD86-4BCF-9E11-DC2653F205FB}|QLKhachSan_EF.csproj|D:\\DACSN 2024\\github\\src\\QLKhachSan_EF\\frmthanhtoan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{387A094B-AD86-4BCF-9E11-DC2653F205FB}|QLKhachSan_EF.csproj|solutionrelative:frmthanhtoan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{387A094B-AD86-4BCF-9E11-DC2653F205FB}|QLKhachSan_EF.csproj|d:\\dacsn 2024\\github\\src\\qlkhachsan_ef\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{387A094B-AD86-4BCF-9E11-DC2653F205FB}|QLKhachSan_EF.csproj|D:\\DACSN 2024\\github\\src\\QLKhachSan_EF\\frmdangnhap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{387A094B-AD86-4BCF-9E11-DC2653F205FB}|QLKhachSan_EF.csproj|solutionrelative:frmdangnhap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{387A094B-AD86-4BCF-9E11-DC2653F205FB}|QLKhachSan_EF.csproj|D:\\DACSN 2024\\github\\src\\QLKhachSan_EF\\frmthongtinkhach.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{387A094B-AD86-4BCF-9E11-DC2653F205FB}|QLKhachSan_EF.csproj|solutionrelative:frmthongtinkhach.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{387A094B-AD86-4BCF-9E11-DC2653F205FB}|QLKhachSan_EF.csproj|D:\\DACSN 2024\\github\\src\\QLKhachSan_EF\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{387A094B-AD86-4BCF-9E11-DC2653F205FB}|QLKhachSan_EF.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
@@ -15,28 +51,8 @@
       "RelativeMoniker": "D:0:0:{387A094B-AD86-4BCF-9E11-DC2653F205FB}|QLKhachSan_EF.csproj|solutionrelative:properties\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{387A094B-AD86-4BCF-9E11-DC2653F205FB}|QLKhachSan_EF.csproj|D:\\DACSN 2024\\github\\src\\QLKhachSan_EF\\frmnhanvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{387A094B-AD86-4BCF-9E11-DC2653F205FB}|QLKhachSan_EF.csproj|solutionrelative:frmnhanvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{387A094B-AD86-4BCF-9E11-DC2653F205FB}|QLKhachSan_EF.csproj|D:\\DACSN 2024\\github\\src\\QLKhachSan_EF\\frmdangkykhach.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{387A094B-AD86-4BCF-9E11-DC2653F205FB}|QLKhachSan_EF.csproj|solutionrelative:frmdangkykhach.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{387A094B-AD86-4BCF-9E11-DC2653F205FB}|QLKhachSan_EF.csproj|D:\\DACSN 2024\\github\\src\\QLKhachSan_EF\\frmdangkykhach.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{387A094B-AD86-4BCF-9E11-DC2653F205FB}|QLKhachSan_EF.csproj|solutionrelative:frmdangkykhach.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{387A094B-AD86-4BCF-9E11-DC2653F205FB}|QLKhachSan_EF.csproj|D:\\DACSN 2024\\github\\src\\QLKhachSan_EF\\frmthongtinkhach.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{387A094B-AD86-4BCF-9E11-DC2653F205FB}|QLKhachSan_EF.csproj|solutionrelative:frmthongtinkhach.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{387A094B-AD86-4BCF-9E11-DC2653F205FB}|QLKhachSan_EF.csproj|D:\\DACSN 2024\\github\\src\\QLKhachSan_EF\\frmtrangchinh.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{387A094B-AD86-4BCF-9E11-DC2653F205FB}|QLKhachSan_EF.csproj|solutionrelative:frmtrangchinh.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{387A094B-AD86-4BCF-9E11-DC2653F205FB}|QLKhachSan_EF.csproj|D:\\DACSN 2024\\github\\src\\QLKhachSan_EF\\frmdangnhap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{387A094B-AD86-4BCF-9E11-DC2653F205FB}|QLKhachSan_EF.csproj|solutionrelative:frmdangnhap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     }
   ],
   "DocumentGroupContainers": [
@@ -46,7 +62,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 6,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Bookmark",
@@ -62,7 +78,58 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "App.config",
+              "DocumentMoniker": "D:\\DACSN 2024\\github\\src\\QLKhachSan_EF\\App.config",
+              "RelativeDocumentMoniker": "App.config",
+              "ToolTip": "D:\\DACSN 2024\\github\\src\\QLKhachSan_EF\\App.config",
+              "RelativeToolTip": "App.config",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2025-01-07T04:34:38.7Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "frmThemPhong.cs",
+              "DocumentMoniker": "D:\\DACSN 2024\\github\\src\\QLKhachSan_EF\\frmThemPhong.cs",
+              "RelativeDocumentMoniker": "frmThemPhong.cs",
+              "ToolTip": "D:\\DACSN 2024\\github\\src\\QLKhachSan_EF\\frmThemPhong.cs",
+              "RelativeToolTip": "frmThemPhong.cs",
+              "ViewState": "AQIAAGEAAAAAAAAAAAAkwHoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-04T02:36:36.732Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "frmThemPhong.cs [Design]",
+              "DocumentMoniker": "D:\\DACSN 2024\\github\\src\\QLKhachSan_EF\\frmThemPhong.cs",
+              "RelativeDocumentMoniker": "frmThemPhong.cs",
+              "ToolTip": "D:\\DACSN 2024\\github\\src\\QLKhachSan_EF\\frmThemPhong.cs [Design]",
+              "RelativeToolTip": "frmThemPhong.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-04T02:36:26.279Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "frmNhanVien.cs",
+              "DocumentMoniker": "D:\\DACSN 2024\\github\\src\\QLKhachSan_EF\\frmNhanVien.cs",
+              "RelativeDocumentMoniker": "frmNhanVien.cs",
+              "ToolTip": "D:\\DACSN 2024\\github\\src\\QLKhachSan_EF\\frmNhanVien.cs",
+              "RelativeToolTip": "frmNhanVien.cs",
+              "ViewState": "AQIAAEMAAAAAAAAAAAAkwCoAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-04T02:35:52.784Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\DACSN 2024\\github\\src\\QLKhachSan_EF\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
@@ -70,12 +137,11 @@
               "RelativeToolTip": "Program.cs",
               "ViewState": "AQIAAAkAAAAAAAAAAAAAABwAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-02T06:07:28.613Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-02T06:07:28.613Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 11,
               "Title": "AssemblyInfo.cs",
               "DocumentMoniker": "D:\\DACSN 2024\\github\\src\\QLKhachSan_EF\\Properties\\AssemblyInfo.cs",
               "RelativeDocumentMoniker": "Properties\\AssemblyInfo.cs",
@@ -87,7 +153,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 12,
               "Title": "frmDangKyKhach.cs",
               "DocumentMoniker": "D:\\DACSN 2024\\github\\src\\QLKhachSan_EF\\frmDangKyKhach.cs",
               "RelativeDocumentMoniker": "frmDangKyKhach.cs",
@@ -95,23 +161,23 @@
               "RelativeToolTip": "frmDangKyKhach.cs",
               "ViewState": "AQIAAEQAAAAAAAAAAAAswFIAAAAUAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-31T04:53:30.672Z"
+              "WhenOpened": "2024-12-31T04:53:30.672Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 7,
               "Title": "frmThanhToan.cs [Design]",
               "DocumentMoniker": "D:\\DACSN 2024\\github\\src\\QLKhachSan_EF\\frmThanhToan.cs",
               "RelativeDocumentMoniker": "frmThanhToan.cs",
               "ToolTip": "D:\\DACSN 2024\\github\\src\\QLKhachSan_EF\\frmThanhToan.cs [Design]",
               "RelativeToolTip": "frmThanhToan.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-31T04:26:55.112Z",
-              "EditorCaption": " [Design]"
+              "WhenOpened": "2024-12-31T04:26:55.112Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 9,
               "Title": "frmThongTinKhach.cs [Design]",
               "DocumentMoniker": "D:\\DACSN 2024\\github\\src\\QLKhachSan_EF\\frmThongTinKhach.cs",
               "RelativeDocumentMoniker": "frmThongTinKhach.cs",
@@ -129,18 +195,20 @@
               "ToolTip": "D:\\DACSN 2024\\github\\src\\QLKhachSan_EF\\frmDangKyKhach.cs [Design]",
               "RelativeToolTip": "frmDangKyKhach.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-31T04:24:18.732Z"
+              "WhenOpened": "2024-12-31T04:24:18.732Z",
+              "EditorCaption": " [Design]"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 6,
               "Title": "frmTrangChinh.cs [Design]",
               "DocumentMoniker": "D:\\DACSN 2024\\github\\src\\QLKhachSan_EF\\frmTrangChinh.cs",
               "RelativeDocumentMoniker": "frmTrangChinh.cs",
               "ToolTip": "D:\\DACSN 2024\\github\\src\\QLKhachSan_EF\\frmTrangChinh.cs [Design]",
               "RelativeToolTip": "frmTrangChinh.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-31T04:23:51.11Z"
+              "WhenOpened": "2024-12-31T04:23:51.11Z",
+              "EditorCaption": " [Design]"
             },
             {
               "$type": "Document",
@@ -151,7 +219,8 @@
               "ToolTip": "D:\\DACSN 2024\\github\\src\\QLKhachSan_EF\\frmNhanVien.cs [Design]",
               "RelativeToolTip": "frmNhanVien.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-31T04:23:24.633Z"
+              "WhenOpened": "2024-12-31T04:23:24.633Z",
+              "EditorCaption": " [Design]"
             },
             {
               "$type": "Document",
